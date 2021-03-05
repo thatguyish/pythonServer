@@ -1,0 +1,18 @@
+http is hyper text transfer protocal which is s standard protocal for sending text through the internet.
+
+universal resource locator which is the address of a resource
+
+dns maps the ip address to an english phrase
+
+a query string is the values you are passing to a website resourse
+
+Post which uploads some info from your documents body and get which retrieves a document.
+
+a request is the information sent to a server asking permission to recieve some resource.
+
+a response is the information sent back after requesting some resource from a server.
+
+an http header retains meta info about the request or response like the langauge and the last modified time.
+
+the web address gets resolved a requst is sent to the resolved address the request is approved or not and a response is then recieved.
+
